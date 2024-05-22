@@ -1,0 +1,82 @@
+ <!DOCTYPE html>
+
+
+<html>
+
+
+<head>
+
+
+<title>menu 1 </title>
+
+
+<link rel="stylesheet" href="F:/daw/menuserver/css/menu1.css">
+
+
+
+
+
+
+</head>
+<body>
+<h1>MENU PRIMER PARCIAL</h1>
+<h1>HTML</h1>
+<br><br><br><br><br><br>
+<table>
+
+<tr>
+
+<td><a href="" target="blank">ACTIVIDAD 1</a><br><br><img src="F:\daw\menuserver\imagenes\a1.PNG"></td>
+
+<td ><a href="" target="blank">	ACTIVIDAD 2</a><br><br><img src="F:\daw\menuserver\imagenes\a2.PNG"></td>
+<td><a href="" target="blank">	ACTIVIDAD 3</a><br><br><img src="F:\daw\menuserver\imagenes\a3.PNG"></td>
+
+
+</tr>
+
+<tr>
+
+
+
+<td><a href="" target="blank">	ACTIVIDAD 4</a><br><br><img src="F:\daw\menuserver\imagenes\a4.PNG"></td>
+<td><a href="" target="blank">	ACTIVIDAD 5</a><br><br><img src="F:\daw\menuserver\imagenes\a1.PNG"></td>
+
+
+ <td><a href="" target="blank">	ACTIVIDAD 6</a><br><br><img src="F:\daw\menuserver\imagenes\a1.PNG"></td>
+
+</tr>
+<tr>
+
+
+
+<td><a href="" target="blank">	ACTIVIDAD 7</a><br><br><img src="F:\daw\menuserver\imagenes\a1.PNG"></td>
+
+<td><a href="" target="blank">	ACTIVIDAD 8</a><br><br><img src="F:\daw\menuserver\imagenes\a1.PNG"></td>
+<td><a href="" target="blank">	ACTIVIDAD 9</a><br><br><img src="F:\daw\menuserver\imagenes\a1.PNG"></td>
+</tr>
+
+<tr>
+
+
+
+<td><a href="" target="blank">	ACTIVIDAD 10</a><br><br><img src=""></td>
+<td><a href="" target="blank">	ACTIVIDAD 11</a><br><br><img src=""></td>
+</tr>
+
+
+
+</table><br><br><br><br><br><br>
+
+
+
+<hr>
+
+ <h6>Alumn@:Montanez Guerrero Mildred Itzel Grupo: 4bpm</h6>
+    <h6>Materia: Desarrollo de Aplicaciones Web Fecha: 01/may/24</h6>
+<h6>Materia: Desarrollo de Aplicaciones Web   Fecha: 16/Feb/23</h6>
+<td><img src="F:\daw2\actividades en css\html\ejemplo\GIF DE MIS DATOS.gif"</td>
+</hr>
+</body>
+</html>
+
+
